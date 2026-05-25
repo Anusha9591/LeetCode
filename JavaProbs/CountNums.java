@@ -1,4 +1,4 @@
-package JavaProbs;
+package LeetCode.JavaProbs;
 
 public class CountNums {
     public static void main(String[] args) {

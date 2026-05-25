@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCode.Arrays;
 import java.util.Arrays;
 public class Swap  {
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 public class SubSeq {
     public static void main(String[] args) {
 //        subseq("","abc");
-        System.out.println(subseqReturn("","abc"));
+//        System.out.println(subseqReturn("","abc"));
         subseqAscii("","abc");
 
     }

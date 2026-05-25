@@ -1,4 +1,4 @@
-package JavaProbs;
+package LeetCode.JavaProbs;
 
 import java.util.Scanner;
 

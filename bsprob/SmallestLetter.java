@@ -1,4 +1,4 @@
-package bsprob;
+package LeetCode.bsprob;
 //find-smallest-letter-greater-than-target
 public class SmallestLetter {
     public static void main(String[] args) {

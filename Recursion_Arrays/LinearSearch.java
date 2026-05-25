@@ -2,7 +2,7 @@ package Recursion_Arrays;
 
 import java.util.ArrayList;
 
-public class LinearSearch {
+public class   LinearSearch {
 
     public static void main(String[] args) {
         int[] arr={1,4,5,6,3,5,5,7,39,99};

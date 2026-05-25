@@ -1,4 +1,4 @@
-package JavaProbs;
+package LeetCode.JavaProbs;
 
 
 

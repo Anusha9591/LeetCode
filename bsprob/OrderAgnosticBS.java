@@ -1,4 +1,4 @@
-package bsprob;
+package LeetCode.bsprob;
 
 public class OrderAgnosticBS {
     public static void main(String[] args) {

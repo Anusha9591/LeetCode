@@ -1,4 +1,4 @@
-package JavaProbs;
+package LeetCode.JavaProbs;
 import java.util.Arrays;
 
 //variable no of arguments can be passed in that array

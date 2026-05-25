@@ -1,8 +1,8 @@
-package bsprob;
+package LeetCode.bsprob;
 //i/p-->[1,2,3,4,5,3,1], target=3
 //o/p-->2
 //explanation:3 exists in the array, at index=2 and index=5, return the min index, which is 2
-public class SearchInMountainArray {
+public class  SearchInMountainArray {
     public static void main(String[] args) {
     int arr[]={1,2,3,4,5,3,1};
     int target=3;

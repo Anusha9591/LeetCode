@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCode.Arrays;
 
 public class max {
     public static void main(String[] args) {
