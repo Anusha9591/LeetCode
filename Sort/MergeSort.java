@@ -62,11 +62,12 @@ public class MergeSort {
         }
         int mid=(s+e)/2;
         mergesortInPlace(arr,s,mid);
-       mergesortInPlace(arr,mid,e);
+       mergesortInPlace(arr,mid + 1,e);
          mergeinplace(arr,s,mid,e);
     }
 
     static void mergeinplace(int[] arr, int s,int m,int e ){
+        int count=0;
         int[] mix=new int[e-s];
         int i=s,j=m,k=0;
         while(i<m && j<e){
@@ -76,6 +77,7 @@ public class MergeSort {
 
             }else {
                 mix[k]=arr[j];
+                count++;
                 j++;
             }
             k++;
